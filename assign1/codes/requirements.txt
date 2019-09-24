@@ -1,0 +1,5 @@
+numpy==1.17.1
+matplotlib==3.1.1
+skimage==0.15.0
+sklearn==0.21.1
+idx2numpy==1.2.2
